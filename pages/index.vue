@@ -1,7 +1,5 @@
 <template>
-  <section>
-    Hello World !
-  </section>
+  <section>Hello World !</section>
 </template>
 
 <script>

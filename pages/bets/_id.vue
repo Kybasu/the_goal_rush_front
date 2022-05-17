@@ -1,11 +1,9 @@
 <template>
-  <section>
-    ID
-  </section>
+  <section>ID</section>
 </template>
 
 <script>
 export default {
-  name: 'BetPage'
+  name: 'BetPage',
 }
 </script>

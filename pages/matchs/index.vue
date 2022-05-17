@@ -1,11 +1,9 @@
 <template>
-  <section>
-    Matchs
-  </section>
+  <section>Matchs</section>
 </template>
 
 <script>
 export default {
-  name: 'MatchsPage'
+  name: 'MatchsPage',
 }
 </script>

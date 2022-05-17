@@ -1,11 +1,9 @@
 <template>
-  <section>
-    bets
-  </section>
+  <section>bets</section>
 </template>
 
 <script>
 export default {
-  name: 'BetssPage'
+  name: 'BetssPage',
 }
 </script>
