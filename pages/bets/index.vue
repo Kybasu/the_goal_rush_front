@@ -1,11 +1,11 @@
 <template>
   <section>
-    Hello World !
+    bets
   </section>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage',
+  name: 'BetssPage'
 }
 </script>

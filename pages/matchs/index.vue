@@ -1,11 +1,11 @@
 <template>
   <section>
-    Hello World !
+    Matchs
   </section>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage',
+  name: 'MatchsPage'
 }
 </script>
